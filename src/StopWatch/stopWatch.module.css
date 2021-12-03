@@ -1,0 +1,65 @@
+.header {
+    text-align: center;
+    font-size: 2.3rem;
+    font-weight: normal;
+    color: green;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+.screens {
+
+   text-align: center;
+    
+}
+.screen_watch {
+    width: 90px;
+    height: 40px;
+    border: 2px solid transparent;
+    font-size: 2rem;
+    margin-bottom: 0;
+    
+}
+.item_watch {
+    
+    display: inline-block;
+    text-align: center;
+}
+.abr_hours {
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: gray;
+    margin-top: 0;
+}
+.block_buttons {
+    text-align: center;
+    
+}
+.butt {
+    margin-left: 30px;
+    margin-bottom: 50px;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    padding: 4px 7px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-style: italic;
+}
+.butt_stop, button {
+  background-color:tomato;
+  color: white;
+  padding-right: 15.5px;
+}
+.butt_start {
+    background-color: green;
+    color: white;
+}
+.butt_wait {
+    background-color: gray;
+    color: white;
+}
+.butt_reset {
+    background-color: lightskyblue;
+    color: white;
+}
